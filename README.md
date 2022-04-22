@@ -1,6 +1,6 @@
 # tiktok-sharebot
 Sharebot
-<h1 align="center">💎TMB {TikTok Mass Botting}</h1>
+<h1 align="center">TikTok ShareBot</h1>
 
 <p align='center'>
   <b>Star ⭐ if you want more</b><br>
